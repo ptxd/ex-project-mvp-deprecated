@@ -26,8 +26,8 @@ header{
 
 .menu-item .well{
     margin-left:29px;
-    background-color:darkgray;
-    border-color: darkgray;
+    background-color: rgba(48,0,0, 0.15);
+    border-color:  rgba(48,0,0, 0.15);
 }
 
 .hamburger1
